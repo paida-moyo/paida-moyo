@@ -9,10 +9,9 @@ I build systems that connect AI to the way businesses actually operate; agents, 
 4. Machine Learning applied to manufacturing and industrial processes.
 
 💞️ I'm looking to collaborate on
-
 AI, ML & RAG for Businesses, and Manufacturing Industry
 
-Here are some projects that I'm interested in:
+🛠️ Here are some projects that I'm interested in:
 
 1. Predictive Maintenance Assistant — combine sensor and machine-log data with an ML model that flags equipment likely to fail, paired with a RAG agent trained on maintenance manuals and SOPs so technicians get a diagnosis and the relevant repair procedure in one place, not two separate lookups.
    
@@ -26,7 +25,4 @@ Open to collaborating with anyone working at the intersection of AI and industri
 
 Email: paidamoyomandizvidza@gmail.com
 
-LinkedIn: linkedin.com/in/paidamoyo-mandizvidza
-
-
-
+LinkedIn: https://www.linkedin.com/in/paidamoyo-mandizvidza
