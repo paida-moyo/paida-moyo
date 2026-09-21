@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Paidamoyo @paida-moyo
 
-<!--
-**paida-moyo/paida-moyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that connect AI to the way businesses actually operate; agents, workflows, and retrieval systems that hold up in production, not just in a demo.
 
-Here are some ideas to get you started:
+👀 I'm interested in
+1. Retrieval-Augmented Generation (RAG) - building and productionizing retrieval systems, not just prototyping them.
+2. AI Agents - designing agents that can act reliably inside real business workflows.
+3. Safe AI use and governance - guardrails, evaluation, and traceability for AI systems making or supporting decisions.
+4. Machine Learning applied to manufacturing and industrial processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I'm looking to collaborate on
+
+AI, ML & RAG for Businesses, and Manufacturing Industry
+
+Projects I'm interested in:
+
+Predictive Maintenance Assistant — combine sensor and machine-log data with an ML model that flags equipment likely to fail, paired with a RAG agent trained on maintenance manuals and SOPs so technicians get a diagnosis and the relevant repair procedure in one place, not two separate lookups.
+Quality Control & Compliance Copilot — a RAG system built on GMP documentation, batch records, and quality specs that helps QC technicians check a result against the right reference instantly, with full traceability on which document backed which answer — built for audit, not just convenience.
+Process Optimization Agent — an agent layer over production data (yield, consumption, downtime) that surfaces optimization recommendations from ML models, with a human-in-the-loop approval step and a logged decision trail, so the system assists the process engineer rather than replacing their judgment.
+
+Open to collaborating with anyone working at the intersection of AI and industrial or manufacturing operations.
+
+📫 How to reach me
+
+Email: paidamoyomandizvidza@gmail.com
+
+LinkedIn: linkedin.com/in/paidamoyo-mandizvidza
