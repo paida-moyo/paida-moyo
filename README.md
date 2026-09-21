@@ -3,7 +3,7 @@
 I build systems that connect AI to the way businesses actually operate; agents, workflows, and retrieval systems that hold up in production, not just in a demo.
 
 👀 I'm interested in
-1. Retrieval-Augmented Generation (RAG) - building and productionizing retrieval systems, not just prototyping them.
+1. Retrieval-Augmented Generation (RAG) - building production ready retrieval systems, not just prototyping them.
 2. AI Agents - designing agents that can act reliably inside real business workflows.
 3. Safe AI use and governance - guardrails, evaluation, and traceability for AI systems making or supporting decisions.
 4. Machine Learning applied to manufacturing and industrial processes.
