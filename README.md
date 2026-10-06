@@ -3,7 +3,7 @@
 I build systems that connect AI to the way businesses actually operate; agents, workflows, and retrieval systems that hold up in production, not just in a demo.
 
 👀 I'm interested in
-1. AI Workflow Automation – connecting LLMs, agent pipelines, and business logic using n8n and Make.com.
+1. AI Workflow Automation - connecting LLMs, agent pipelines, and business logic using n8n and Make.com.
 2. Retrieval-Augmented Generation (RAG) - building production ready retrieval systems, not just prototyping them.
 3. AI Agents - designing agents that can act reliably inside real business workflows.
 4. Safe AI use and governance - guardrails, evaluation, and traceability for AI systems making or supporting decisions.
